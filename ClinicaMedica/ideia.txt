@@ -1,0 +1,22 @@
+SISTEMA DE CLINICA MEDICA
+
+PESSOA
+	Pessoa Fisica
+		Médico,secretario,zelador,paciente
+	Pessoa Juridica
+		Fornecedor
+
+FINANCEIRO
+	PagamentoEntrada
+		Paciente
+	PagamentoSaida
+		Médico,secretario,zelador,Fornecedor
+
+AGENDA
+
+DOCUMENTO
+	Atestado,prontuário
+
+
+		
+	
